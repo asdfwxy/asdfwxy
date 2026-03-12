@@ -34,7 +34,7 @@ I hope to bridge rigorous data science methods with real-world impact, especiall
 ## 💻 Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,rstudio,mysql,mongodb,git,github,latex,vscode,html,js" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,mongodb,git,github,latex,vscode,html,js" />
 </p>
 
 ---
