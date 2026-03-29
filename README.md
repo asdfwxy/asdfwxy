@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋 I'm Xinyi Wu</h1>
-<h3 align="center">Master's Student in Data Science at Brown University</h3>
 
 <p align="center">
   <a href="www.linkedin.com/in/xinyi-wu-100054236">LinkedIn</a> 
