@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 I'm Xinyi Wu</h1>
 
-<p align="center">
+
   <a href="www.linkedin.com/in/xinyi-wu-100054236">LinkedIn</a> 
-</p>
+
 
 ---
 
